@@ -1,11 +1,13 @@
 ---
-title: Calculos online para Autoconsumo ( Instalaciones Fotovoltaicas ) y Eficiencia Energetica.
-description: Calculos justificativos para estudios, informes y proyectos de Instalaciones Fotovoltaicas
+title: Programacion de consumos para optmiczacion de tarifa
+description: Programacion de consumos para optmiczacion de tarifa
 ---
 #
 
-<h1>Calculos online </h1>
-<h1>Autoconsumo (FV) y Eficiencia Energetica</h1>
+<figure>
+  <img src="https://dummyimage.com/600x400/eee/aaa" width=100% />
+  <figcaption>Image caption</figcaption>
+</figure>
 
 ???- quote "🌞 El Autoconsumo implica independencia energética y menores emisiones de gases de efecto invernadero"
     ... regulación del autoconsumo en España con el fin de que los consumidores,  productores,  y  la  sociedad  en  su  conjunto,  puedan  beneficiarse  de  las  ventajas que puede acarrear esta actividad, en términos de menores necesidades de red, mayor independencia energética y menores emisiones de gases de efecto invernadero.
