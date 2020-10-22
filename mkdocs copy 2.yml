@@ -1,0 +1,10 @@
+site_name: este va a ser mi libro
+theme:
+  name: 'material'
+plugins:
+    - search
+    # - print-site
+    - pdf-export
+markdown_extensions:
+    - pymdownx.arithmatex:
+        generic: true

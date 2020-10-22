@@ -1,0 +1,10 @@
+mkdocs
+mkdocs-material
+pymdown-extensions
+mkdocs-pdf-export-plugin
+mkdocs-with-pdf
+mkdocs-print-site-plugin
+mkpdfs-mkdocs
+python-markdown-math
+mkdocs-nav-enhancements
+

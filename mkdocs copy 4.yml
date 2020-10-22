@@ -1,0 +1,47 @@
+site_name: 1kwm2
+theme:
+  name: 'material'
+  logo: 'images/0individual.jpg'
+
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - js/dat.gui.js
+  - js/pk.js
+extra_css:
+  - css/pk.css
+
+markdown_extensions:
+    - abbr
+    - pymdownx.snippets
+    - pymdownx.tasklist:
+        custom_checkbox: true
+        clickable_checkbox: true
+    - def_list
+    - attr_list
+    - footnotes
+    - pymdownx.tabbed
+    - pymdownx.superfences
+    - pymdownx.details
+    - admonition
+    - attr_list
+    - pymdownx.arithmatex:
+          generic: true
+
+nav:
+    - Introduction: index.md
+    - Deep Dive:
+        - Getting Started: getting-started.md
+        - Creating Content: creating-content.md 
+        - Styling Site: styling-site.md
+        - Configuration: configuration.md
+        - Extensions & Plugins: extensions-and-plugins.md
+        - Custom Theme: custom-theme.md
+        - Deployment: deployment.md
+        - Checklist: checklist.md
+    - Cheatsheets:
+        - Markdown: markdown-cheatsheet.md
+        - YAML: yaml-cheatsheet.md
+        - Github Pages: github-pages.md
+        - Jinja 2 : jinja2-cheatsheet.md

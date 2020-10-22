@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="viewport" content="width=device-width" /><title>https://asolear.es/fig/asolear.svg</title><link rel="stylesheet" type="text/css" href="resource://content-accessible/viewsource.css" /></head><body id="viewsource" class="highlight" style="-moz-tab-size: 4" contextmenu="actions"><pre id="line1"><span></span><span class="pi">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;</span><span>
+<span id="line2"></span></span><span>&lt;<span class="start-tag">svg</span>
+<span id="line3"></span>   <span class="attribute-name">xmlns:dc</span>="<a class="attribute-value">http://purl.org/dc/elements/1.1/</a>"
+<span id="line4"></span>   <span class="attribute-name">xmlns:cc</span>="<a class="attribute-value">http://creativecommons.org/ns#</a>"
+<span id="line5"></span>   <span class="attribute-name">xmlns:rdf</span>="<a class="attribute-value">http://www.w3.org/1999/02/22-rdf-syntax-ns#</a>"
+<span id="line6"></span>   <span class="attribute-name">xmlns:svg</span>="<a class="attribute-value">http://www.w3.org/2000/svg</a>"
+<span id="line7"></span>   <span class="attribute-name">xmlns</span>="<a class="attribute-value">http://www.w3.org/2000/svg</a>"
+<span id="line8"></span>   <span class="attribute-name">xmlns:xlink</span>="<a class="attribute-value">http://www.w3.org/1999/xlink</a>"
+<span id="line9"></span>   <span class="attribute-name">xmlns:sodipodi</span>="<a class="attribute-value">http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd</a>"
+<span id="line10"></span>   <span class="attribute-name">xmlns:inkscape</span>="<a class="attribute-value">http://www.inkscape.org/namespaces/inkscape</a>"
+<span id="line11"></span>   <span class="attribute-name">version</span>="<a class="attribute-value">1.1</a>"
+<span id="line12"></span>   <span class="attribute-name">id</span>="<a class="attribute-value">svg4394</a>"
+<span id="line13"></span>   <span class="attribute-name">viewBox</span>="<a class="attribute-value">0 0 946.02817 479.76878</a>"
+<span id="line14"></span>   <span class="attribute-name">height</span>="<a class="attribute-value">135.40141mm</a>"
+<span id="line15"></span>   <span class="attribute-name">width</span>="<a class="attribute-value">266.99017mm</a>"
+<span id="line16"></span>   <span class="attribute-name">inkscape:version</span>="<a class="attribute-value">0.92.3 (2405546, 2018-03-11)</a>"
+<span id="line17"></span>   <span class="attribute-name">sodipodi:docname</span>="<a class="attribute-value">asolear.svg</a>"&gt;</span><span>
+<span id="line18"></span>  </span><span>&lt;<span class="start-tag">sodipodi:namedview</span>
+<span id="line19"></span>     <span class="attribute-name">pagecolor</span>="<a class="attribute-value">#ffffff</a>"
+<span id="line20"></span>     <span class="attribute-name">bordercolor</span>="<a class="attribute-value">#666666</a>"
+<span id="line21"></span>     <span class="attribute-name">borderopacity</span>="<a class="attribute-value">1</a>"
+<span id="line22"></span>     <span class="attribute-name">objecttolerance</span>="<a class="attribute-value">10</a>"
+<span id="line23"></span>     <span class="attribute-name">gridtolerance</span>="<a class="attribute-value">10</a>"
+<span id="line24"></span>     <span class="attribute-name">guidetolerance</span>="<a class="attribute-value">10</a>"
+<span id="line25"></span>     <span class="attribute-name">inkscape:pageopacity</span>="<a class="attribute-value">0</a>"
+<span id="line26"></span>     <span class="attribute-name">inkscape:pageshadow</span>="<a class="attribute-value">2</a>"
+<span id="line27"></span>     <span class="attribute-name">inkscape:window-width</span>="<a class="attribute-value">1920</a>"
+<span id="line28"></span>     <span class="attribute-name">inkscape:window-height</span>="<a class="attribute-value">1025</a>"
+<span id="line29"></span>     <span class="attribute-name">id</span>="<a class="attribute-value">namedview25</a>"
+<span id="line30"></span>     <span class="attribute-name">showgrid</span>="<a class="attribute-value">false</a>"
+<span id="line31"></span>     <span class="attribute-name">inkscape:zoom</span>="<a class="attribute-value">0.44346944</a>"
+<span id="line32"></span>     <span class="attribute-name">inkscape:cx</span>="<a class="attribute-value">234.6425</a>"
+<span id="line33"></span>     <span class="attribute-name">inkscape:cy</span>="<a class="attribute-value">199.90789</a>"
+<span id="line34"></span>     <span class="attribute-name">inkscape:window-x</span>="<a class="attribute-value">0</a>"
+<span id="line35"></span>     <span class="attribute-name">inkscape:window-y</span>="<a class="attribute-value">27</a>"
+<span id="line36"></span>     <span class="attribute-name">inkscape:window-maximized</span>="<a class="attribute-value">1</a>"
+<span id="line37"></span>     <span class="attribute-name">inkscape:current-layer</span>="<a class="attribute-value">g3468</a>"
+<span id="line38"></span>     <span class="attribute-name">fit-margin-top</span>="<a class="attribute-value">0</a>"
+<span id="line39"></span>     <span class="attribute-name">fit-margin-left</span>="<a class="attribute-value">0</a>"
+<span id="line40"></span>     <span class="attribute-name">fit-margin-right</span>="<a class="attribute-value">0</a>"
+<span id="line41"></span>     <span class="attribute-name">fit-margin-bottom</span>="<a class="attribute-value">0</a>" <span>/</span>&gt;</span><span>
+<span id="line42"></span>  </span><span>&lt;<span class="start-tag">defs</span>
+<span id="line43"></span>     <span class="attribute-name">id</span>="<a class="attribute-value">defs4396</a>"&gt;</span><span>
+<span id="line44"></span>    </span><span>&lt;<span class="start-tag">linearGradient</span>
+<span id="line45"></span>       <span class="attribute-name">id</span>="<a class="attribute-value">linearGradient4964</a>"&gt;</span><span>
+<span id="line46"></span>      </span><span>&lt;<span class="start-tag">stop</span>
+<span id="line47"></span>         <span class="attribute-name">id</span>="<a class="attribute-value">stop4966</a>"
+<span id="line48"></span>         <span class="attribute-name">offset</span>="<a class="attribute-value">0</a>"
+<span id="line49"></span>         <span class="attribute-name">style</span>="<a class="attribute-value">stop-color:#ffffff;stop-opacity:1</a>" <span>/</span>&gt;</span><span>
+<span id="line50"></span>      </span><span>&lt;<span class="start-tag">stop</span>
+<span id="line51"></span>         <span class="attribute-name">id</span>="<a class="attribute-value">stop4968</a>"
+<span id="line52"></span>         <span class="attribute-name">offset</span>="<a class="attribute-value">1</a>"
+<span id="line53"></span>         <span class="attribute-name">style</span>="<a class="attribute-value">stop-color:#0000ff;stop-opacity:1</a>" <span>/</span>&gt;</span><span>
+<span id="line54"></span>    </span><span>&lt;/<span class="end-tag">linearGradient</span>&gt;</span><span>
+<span id="line55"></span>    </span><span>&lt;<span class="start-tag">linearGradient</span>
+<span id="line56"></span>       <span class="attribute-name">id</span>="<a class="attribute-value">linearGradient4944</a>"&gt;</span><span>
+<span id="line57"></span>      </span><span>&lt;<span class="start-tag">stop</span>
+<span id="line58"></span>         <span class="attribute-name">id</span>="<a class="attribute-value">stop4946</a>"
+<span id="line59"></span>         <span class="attribute-name">offset</span>="<a class="attribute-value">0</a>"
+<span id="line60"></span>         <span class="attribute-name">style</span>="<a class="attribute-value">stop-color:#ff0000;stop-opacity:1</a>" <span>/</span>&gt;</span><span>
+<span id="line61"></span>      </span><span>&lt;<span class="start-tag">stop</span>
+<span id="line62"></span>         <span class="attribute-name">id</span>="<a class="attribute-value">stop4948</a>"
+<span id="line63"></span>         <span class="attribute-name">offset</span>="<a class="attribute-value">1</a>"
+<span id="line64"></span>         <span class="attribute-name">style</span>="<a class="attribute-value">stop-color:#ffff00;stop-opacity:1</a>" <span>/</span>&gt;</span><span>
+<span id="line65"></span>    </span><span>&lt;/<span class="end-tag">linearGradient</span>&gt;</span><span>
+<span id="line66"></span>    </span><span>&lt;<span class="start-tag">radialGradient</span>
+<span id="line67"></span>       <span class="attribute-name">gradientUnits</span>="<a class="attribute-value">userSpaceOnUse</a>"
+<span id="line68"></span>       <span class="attribute-name">gradientTransform</span>="<a class="attribute-value">matrix(0.02604531,-0.76932388,1.8172942,0.06152756,-3.7000694,514.13635)</a>"
+<span id="line69"></span>       <span class="attribute-name">r</span>="<a class="attribute-value">296.90823</a>"
+<span id="line70"></span>       <span class="attribute-name">fy</span>="<a class="attribute-value">209.91811</a>"
+<span id="line71"></span>       <span class="attribute-name">fx</span>="<a class="attribute-value">242.43661</a>"
+<span id="line72"></span>       <span class="attribute-name">cy</span>="<a class="attribute-value">209.91811</a>"
+<span id="line73"></span>       <span class="attribute-name">cx</span>="<a class="attribute-value">242.43661</a>"
+<span id="line74"></span>       <span class="attribute-name">id</span>="<a class="attribute-value">radialGradient4950</a>"
+<span id="line75"></span>       <span class="attribute-name">xlink:href</span>="<a class="attribute-value" href="view-source:https://asolear.es/fig/asolear.svg#linearGradient4944">#linearGradient4944</a>" <span>/</span>&gt;</span><span>
+<span id="line76"></span>    </span><span>&lt;<span class="start-tag">radialGradient</span>
+<span id="line77"></span>       <span class="attribute-name">gradientUnits</span>="<a class="attribute-value">userSpaceOnUse</a>"
+<span id="line78"></span>       <span class="attribute-name">gradientTransform</span>="<a class="attribute-value">matrix(-1.1635035,-1.2825943e-8,1.2095768e-4,-2.6647049,586.02987,1219.8141)</a>"
+<span id="line79"></span>       <span class="attribute-name">r</span>="<a class="attribute-value">113.63437</a>"
+<span id="line80"></span>       <span class="attribute-name">fy</span>="<a class="attribute-value">344.45706</a>"
+<span id="line81"></span>       <span class="attribute-name">fx</span>="<a class="attribute-value">308.25079</a>"
+<span id="line82"></span>       <span class="attribute-name">cy</span>="<a class="attribute-value">344.45706</a>"
+<span id="line83"></span>       <span class="attribute-name">cx</span>="<a class="attribute-value">308.25079</a>"
+<span id="line84"></span>       <span class="attribute-name">id</span>="<a class="attribute-value">radialGradient4970</a>"
+<span id="line85"></span>       <span class="attribute-name">xlink:href</span>="<a class="attribute-value" href="view-source:https://asolear.es/fig/asolear.svg#linearGradient4964">#linearGradient4964</a>" <span>/</span>&gt;</span><span>
+<span id="line86"></span>    </span><span>&lt;<span class="start-tag">radialGradient</span>
+<span id="line87"></span>       <span class="attribute-name">r</span>="<a class="attribute-value">113.63437</a>"
+<span id="line88"></span>       <span class="attribute-name">fy</span>="<a class="attribute-value">344.45706</a>"
+<span id="line89"></span>       <span class="attribute-name">fx</span>="<a class="attribute-value">308.25079</a>"
+<span id="line90"></span>       <span class="attribute-name">cy</span>="<a class="attribute-value">344.45706</a>"
+<span id="line91"></span>       <span class="attribute-name">cx</span>="<a class="attribute-value">308.25079</a>"
+<span id="line92"></span>       <span class="attribute-name">gradientTransform</span>="<a class="attribute-value">matrix(-1.6053943,-1.0428954e-8,1.6687012e-4,-2.1667121,759.42939,984.87968)</a>"
+<span id="line93"></span>       <span class="attribute-name">gradientUnits</span>="<a class="attribute-value">userSpaceOnUse</a>"
+<span id="line94"></span>       <span class="attribute-name">id</span>="<a class="attribute-value">radialGradient5917</a>"
+<span id="line95"></span>       <span class="attribute-name">xlink:href</span>="<a class="attribute-value" href="view-source:https://asolear.es/fig/asolear.svg#linearGradient4964">#linearGradient4964</a>" <span>/</span>&gt;</span><span>
+<span id="line96"></span>    </span><span>&lt;<span class="start-tag">radialGradient</span>
+<span id="line97"></span>       <span class="attribute-name">r</span>="<a class="attribute-value">113.63437</a>"
+<span id="line98"></span>       <span class="attribute-name">fy</span>="<a class="attribute-value">344.45706</a>"
+<span id="line99"></span>       <span class="attribute-name">fx</span>="<a class="attribute-value">308.25079</a>"
+<span id="line100"></span>       <span class="attribute-name">cy</span>="<a class="attribute-value">344.45706</a>"
+<span id="line101"></span>       <span class="attribute-name">cx</span>="<a class="attribute-value">308.25079</a>"
+<span id="line102"></span>       <span class="attribute-name">gradientTransform</span>="<a class="attribute-value">matrix(-7.0303251,-4.5670361e-8,7.307558e-4,-9.4884419,2684.365,3668.2481)</a>"
+<span id="line103"></span>       <span class="attribute-name">gradientUnits</span>="<a class="attribute-value">userSpaceOnUse</a>"
+<span id="line104"></span>       <span class="attribute-name">id</span>="<a class="attribute-value">radialGradient4188</a>"
+<span id="line105"></span>       <span class="attribute-name">xlink:href</span>="<a class="attribute-value" href="view-source:https://asolear.es/fig/asolear.svg#linearGradient4964">#linearGradient4964</a>" <span>/</span>&gt;</span><span>
+<span id="line106"></span>    </span><span>&lt;<span class="start-tag">radialGradient</span>
+<span id="line107"></span>       <span class="attribute-name">gradientUnits</span>="<a class="attribute-value">userSpaceOnUse</a>"
+<span id="line108"></span>       <span class="attribute-name">gradientTransform</span>="<a class="attribute-value">matrix(0.02604531,-0.76932388,1.8172942,0.06152756,12.021715,563.59389)</a>"
+<span id="line109"></span>       <span class="attribute-name">r</span>="<a class="attribute-value">296.90823</a>"
+<span id="line110"></span>       <span class="attribute-name">fy</span>="<a class="attribute-value">209.91811</a>"
+<span id="line111"></span>       <span class="attribute-name">fx</span>="<a class="attribute-value">242.43661</a>"
+<span id="line112"></span>       <span class="attribute-name">cy</span>="<a class="attribute-value">209.91811</a>"
+<span id="line113"></span>       <span class="attribute-name">cx</span>="<a class="attribute-value">242.43661</a>"
+<span id="line114"></span>       <span class="attribute-name">id</span>="<a class="attribute-value">radialGradient4950-3</a>"
+<span id="line115"></span>       <span class="attribute-name">xlink:href</span>="<a class="attribute-value" href="view-source:https://asolear.es/fig/asolear.svg#linearGradient4944">#linearGradient4944</a>" <span>/</span>&gt;</span><span>
+<span id="line116"></span>    </span><span>&lt;<span class="start-tag">radialGradient</span>
+<span id="line117"></span>       <span class="attribute-name">r</span>="<a class="attribute-value">113.63437</a>"
+<span id="line118"></span>       <span class="attribute-name">fy</span>="<a class="attribute-value">344.45706</a>"
+<span id="line119"></span>       <span class="attribute-name">fx</span>="<a class="attribute-value">308.25079</a>"
+<span id="line120"></span>       <span class="attribute-name">cy</span>="<a class="attribute-value">344.45706</a>"
+<span id="line121"></span>       <span class="attribute-name">cx</span>="<a class="attribute-value">308.25079</a>"
+<span id="line122"></span>       <span class="attribute-name">gradientTransform</span>="<a class="attribute-value">matrix(-7.0303251,-4.5670361e-8,7.307558e-4,-9.4884419,2703.7002,3708.4628)</a>"
+<span id="line123"></span>       <span class="attribute-name">gradientUnits</span>="<a class="attribute-value">userSpaceOnUse</a>"
+<span id="line124"></span>       <span class="attribute-name">id</span>="<a class="attribute-value">radialGradient4188-5</a>"
+<span id="line125"></span>       <span class="attribute-name">xlink:href</span>="<a class="attribute-value" href="view-source:https://asolear.es/fig/asolear.svg#linearGradient4964">#linearGradient4964</a>" <span>/</span>&gt;</span><span>
+<span id="line126"></span>    </span><span>&lt;<span class="start-tag">radialGradient</span>
+<span id="line127"></span>       <span class="attribute-name">r</span>="<a class="attribute-value">113.63437</a>"
+<span id="line128"></span>       <span class="attribute-name">fy</span>="<a class="attribute-value">344.45706</a>"
+<span id="line129"></span>       <span class="attribute-name">fx</span>="<a class="attribute-value">308.25079</a>"
+<span id="line130"></span>       <span class="attribute-name">cy</span>="<a class="attribute-value">344.45706</a>"
+<span id="line131"></span>       <span class="attribute-name">cx</span>="<a class="attribute-value">308.25079</a>"
+<span id="line132"></span>       <span class="attribute-name">gradientTransform</span>="<a class="attribute-value">matrix(-7.0303251,-4.5670361e-8,7.307558e-4,-9.4884419,2684.365,3668.2481)</a>"
+<span id="line133"></span>       <span class="attribute-name">gradientUnits</span>="<a class="attribute-value">userSpaceOnUse</a>"
+<span id="line134"></span>       <span class="attribute-name">id</span>="<a class="attribute-value">radialGradient3426</a>"
+<span id="line135"></span>       <span class="attribute-name">xlink:href</span>="<a class="attribute-value" href="view-source:https://asolear.es/fig/asolear.svg#linearGradient4964">#linearGradient4964</a>" <span>/</span>&gt;</span><span>
+<span id="line136"></span>  </span><span>&lt;/<span class="end-tag">defs</span>&gt;</span><span>
+<span id="line137"></span>  </span><span>&lt;<span class="start-tag">metadata</span>
+<span id="line138"></span>     <span class="attribute-name">id</span>="<a class="attribute-value">metadata4399</a>"&gt;</span><span>
+<span id="line139"></span>    </span><span>&lt;<span class="start-tag">rdf:RDF</span>&gt;</span><span>
+<span id="line140"></span>      </span><span>&lt;<span class="start-tag">cc:Work</span>
+<span id="line141"></span>         <span class="attribute-name">rdf:about</span>="<a class="attribute-value"></a>"&gt;</span><span>
+<span id="line142"></span>        </span><span>&lt;<span class="start-tag">dc:format</span>&gt;</span><span>image/svg+xml</span><span>&lt;/<span class="end-tag">dc:format</span>&gt;</span><span>
+<span id="line143"></span>        </span><span>&lt;<span class="start-tag">dc:type</span>
+<span id="line144"></span>           <span class="attribute-name">rdf:resource</span>="<a class="attribute-value">http://purl.org/dc/dcmitype/StillImage</a>" <span>/</span>&gt;</span><span>
+<span id="line145"></span>        </span><span>&lt;<span class="start-tag">dc:title</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">dc:title</span>&gt;</span><span>
+<span id="line146"></span>      </span><span>&lt;/<span class="end-tag">cc:Work</span>&gt;</span><span>
+<span id="line147"></span>    </span><span>&lt;/<span class="end-tag">rdf:RDF</span>&gt;</span><span>
+<span id="line148"></span>  </span><span>&lt;/<span class="end-tag">metadata</span>&gt;</span><span>
+<span id="line149"></span>  </span><span>&lt;<span class="start-tag">g</span>
+<span id="line150"></span>     <span class="attribute-name">id</span>="<a class="attribute-value">g3468</a>"
+<span id="line151"></span>     <span class="attribute-name">transform</span>="<a class="attribute-value">translate(-75.489837,-137.47782)</a>"&gt;</span><span>
+<span id="line152"></span>    </span><span>&lt;<span class="start-tag">path</span>
+<span id="line153"></span>       <span class="attribute-name">inkscape:connector-curvature</span>="<a class="attribute-value">0</a>"
+<span id="line154"></span>       <span class="attribute-name">d</span>="<a class="attribute-value">M 490.4753,484.62805 C 47.515217,831.29249 985.60502,372.80169 439.93973,509.32729 -105.72557,645.85288 937.7471,608.55621 383.72705,511.3365 -170.29294,414.11676 798.13667,804.46313 331.55703,490.30825 -135.02259,176.15338 590.91371,926.64832 292.4503,449.87853 -6.0131,-26.891271 351.90896,953.98488 273.16878,397.03801 194.42864,-159.90887 122.44844,881.74609 277.04642,340.9233 431.6444,-199.89954 -57.792017,722.42265 303.41273,291.23711 664.61748,-139.94844 -157.64719,503.56305 347.70875,256.57066 853.06466,9.578264 -159.8512,263.01008 402.27528,242.9181 c 562.12645,-20.09198 -466.298226,-200.560511 55.402,9.72197 521.70023,210.28249 -344.40933,-372.88172 46.65794,31.41547 391.06731,404.2972 -162.96889,-480.72827 29.84636,47.67698 192.81525,528.40529 46.65027,-505.45256 7.874,55.6947 C 503.27931,948.57448 790.25882,-55.352274 526.59577,441.5095 262.93273,938.37128 933.43539,137.96365 490.4753,484.62805 Z</a>"
+<span id="line155"></span>       <span class="attribute-name">id</span>="<a class="attribute-value">path4942-2</a>"
+<span id="line156"></span>       <span class="attribute-name">style</span>="<a class="attribute-value">opacity:0.97000002;fill:url(#radialGradient4950-3);fill-opacity:1;stroke:none;stroke-opacity:1</a>" <span>/</span>&gt;</span><span>
+<span id="line157"></span>    </span><span>&lt;<span class="start-tag">text</span>
+<span id="line158"></span>       <span class="attribute-name">id</span>="<a class="attribute-value">text4960-9</a>"
+<span id="line159"></span>       <span class="attribute-name">y</span>="<a class="attribute-value">440.10229</a>"
+<span id="line160"></span>       <span class="attribute-name">x</span>="<a class="attribute-value">66.06308</a>"
+<span id="line161"></span>       <span class="attribute-name">style</span>="<a class="attribute-value">font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:284.86300659px;line-height:0%;font-family:Purisa;-inkscape-font-specification:'Purisa, Bold';text-align:start;letter-spacing:10.07701015px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#radialGradient4188-5);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1</a>"
+<span id="line162"></span>       <span class="attribute-name">xml:space</span>="<a class="attribute-value">preserve</a>"
+<span id="line163"></span>       <span class="attribute-name">transform</span>="<a class="attribute-value">scale(0.81311582,1.2298371)</a>"&gt;</span><span></span><span>&lt;<span class="start-tag">tspan</span>
+<span id="line164"></span>         <span class="attribute-name">style</span>="<a class="attribute-value">font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:284.86300659px;line-height:694.00000572%;font-family:Purisa;-inkscape-font-specification:'Purisa, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#radialGradient4188-5);fill-opacity:1</a>"
+<span id="line165"></span>         <span class="attribute-name">y</span>="<a class="attribute-value">440.10229</a>"
+<span id="line166"></span>         <span class="attribute-name">x</span>="<a class="attribute-value">66.06308</a>"
+<span id="line167"></span>         <span class="attribute-name">id</span>="<a class="attribute-value">tspan4962-1</a>"&gt;</span><span>asolear</span><span>&lt;/<span class="end-tag">tspan</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">text</span>&gt;</span><span>
+<span id="line168"></span>  </span><span>&lt;/<span class="end-tag">g</span>&gt;</span><span>
+<span id="line169"></span></span><span>&lt;/<span class="end-tag">svg</span>&gt;</span><span>
+<span id="line170"></span></span></pre><menu type="context" id="actions"><menuitem id="goToLine" label="Go to Line…" accesskey="L"></menuitem><menuitem id="wrapLongLines" label="Wrap Long Lines" type="checkbox"></menuitem><menuitem id="highlightSyntax" label="Syntax Highlighting" type="checkbox" checked="true"></menuitem></menu></body></html>

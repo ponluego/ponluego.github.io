@@ -1,0 +1,93 @@
+site_name: 1kwm2
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - meta
+  - pymdownx.arithmatex:
+      generic: true
+  - attr_list
+  - footnotes
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.keys
+  - pymdownx.highlight:
+      linenums_style: pymdownx.inline
+      linenums: true
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.details
+  - admonition
+  - pymdownx.snippets
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.smartsymbols
+  - abbr
+
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  # - javascripts/MathJax.js
+  - javascripts/extra.js
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+  # - javascripts/jquery.min.js
+  # - javascripts/dat.gui.js
+  # - javascripts/three.min.js
+  # - javascripts/suncalc.js
+  # - javascripts/analema3.js
+  # - javascripts/FileSaver.min.js
+  # - javascripts/filereader.js
+  # - javascripts/pk.js
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+    - search
+        
+        
+# nav:
+#   - Tab 1:
+#     - Page 1.1
+#     - Page 1.2
+#     - Page 1.3
+#   - Tab 2:
+#     - Page 2.1
+#     - Page 2.2
+#     - Page 2.3
+
+
+theme:
+  palette:
+    primary: black
+  favicon: images/favicon.ico
+  logo: images/favicon.ico
+
+  features:
+    - navigation.tabs
+    - navigation.expand
+  language: es
+  name: material
+  # https://analytics.google.com/analytics/web/?authuser=2#/report/visitors-overview/a178886246w247366348p229668719/
+google_analytics:
+  - UA-178886246-1
+  - auto
+# repo_url: https://github.com/squidfunk/mkdocs-material
+# repo_name: squidfunk/mkdocs-material
+# edit_uri: .
+extra:
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:1kwhm2@gmail.com
+    - icon: fontawesome/solid/paper-plane
+      link: https://web.telegram.org/#/im?p=@fv1kwm2
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/1kwm2
+
+      
